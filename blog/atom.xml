@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tecnologiapedromercedes.github.io/blog</id>
-    <title>My Site Blog</title>
+    <title>Tutorial Docusaurus Blog</title>
     <updated>2024-12-27T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tecnologiapedromercedes.github.io/blog"/>
-    <subtitle>My Site Blog</subtitle>
+    <subtitle>Tutorial Docusaurus Blog</subtitle>
     <icon>https://tecnologiapedromercedes.github.io/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Mi post]]></title>
@@ -17,11 +17,7 @@
 <p>...consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat.</p>]]></content>
         <author>
             <name>Jesús Gil</name>
-            <uri>https://github.com/yangshun</uri>
-        </author>
-        <author>
-            <name>Yangshun Tay</name>
-            <uri>https://github.com/yangshun</uri>
+            <uri>https://github.com/tecnologiapedromercedes</uri>
         </author>
         <category label="Tutorial" term="Tutorial"/>
         <category label="Docusaurus" term="Docusaurus"/>
@@ -47,7 +43,7 @@
 <p><strong>And if you don't want a blog</strong>: just delete this directory, and use <code>blog: false</code> in your Docusaurus config.</p>]]></content>
         <author>
             <name>Jesús Gil</name>
-            <uri>https://github.com/yangshun</uri>
+            <uri>https://github.com/tecnologiapedromercedes</uri>
         </author>
         <author>
             <name>Yangshun Tay</name>
