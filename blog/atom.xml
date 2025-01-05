@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tecnologiapedromercedes.github.io/blog</id>
-    <title>Tutorial Docusaurus Blog</title>
+    <title>Tutoriales Tecnología Blog</title>
     <updated>2024-12-27T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tecnologiapedromercedes.github.io/blog"/>
-    <subtitle>Tutorial Docusaurus Blog</subtitle>
+    <subtitle>Tutoriales Tecnología Blog</subtitle>
     <icon>https://tecnologiapedromercedes.github.io/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Mi post]]></title>
@@ -44,10 +44,6 @@
         <author>
             <name>Jesús Gil</name>
             <uri>https://github.com/tecnologiapedromercedes</uri>
-        </author>
-        <author>
-            <name>Yangshun Tay</name>
-            <uri>https://github.com/yangshun</uri>
         </author>
         <category label="Tutorial" term="Tutorial"/>
         <category label="Hello" term="Hello"/>
